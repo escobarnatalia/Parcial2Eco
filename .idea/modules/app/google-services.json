@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134911374137",
+    "project_id": "parcial2eco-b5b03",
+    "storage_bucket": "parcial2eco-b5b03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134911374137:android:76a1945f9c7a6d63d6eee8",
+        "android_client_info": {
+          "package_name": "co.natalia.parcial2eco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134911374137-ebpfq3dpmf7rcvt1dh52totd9s2ut9ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.natalia.parcial2eco",
+            "certificate_hash": "a958b12e38f17c6228d702b18e988b07ce851c9c"
+          }
+        },
+        {
+          "client_id": "134911374137-b8fjhsj3pu2771142e3dom9v7pn721u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1qWTL5vJLOj_5iLsnXIFDYE3_5t1l6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134911374137-b8fjhsj3pu2771142e3dom9v7pn721u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
